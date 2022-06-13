@@ -2,8 +2,6 @@
 # range() method is an iterator
 # iterable are not iterator BUT iterator are iterable
 
-from tracemalloc import start
-
 
 class MyRange:
 
